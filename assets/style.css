@@ -19,9 +19,13 @@ p {
 }
 
 .contact-info {
-    float: right;
+    float: left;
 }
 
 img {
     float: left;
+}
+
+ul {
+    list-style-type: none;
 }

@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+}
+
+section {
+    background-color: white;
+    padding: 5px;
+}
+
+p {
+    max-width: 75ch;
+}
+
+img {
+    margin: 10px;
+    border: darkgray;
+    border-style: inset;
+    border-width: 10px;
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
+}
+
+.row {
+    margin: 15px;
+}
+
+.card {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.img-fluid {
+    background-image: url(../../assets/images/muddyGapLookout.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#gif {
+    width: auto;
+    height: auto;
+}

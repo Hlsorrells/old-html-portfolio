@@ -5,6 +5,7 @@ body {
 section {
     background-color: white;
     padding: 5px;
+    max-width: 85ch;
 }
 
 p {

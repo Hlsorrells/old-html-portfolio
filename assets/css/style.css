@@ -12,7 +12,7 @@ p {
     max-width: 75ch;
 }
 
-img {
+#about-tiles {
     margin: 10px;
     border: darkgray;
     border-style: inset;
@@ -40,6 +40,22 @@ img {
 }
 
 #gif {
-    width: auto;
+    height: 100%;
+    width: 100%;
+}
+
+figure {
+    margin: 10px;
+    border: darkgray;
+    border-style: inset;
+    border-width: 10px;
     height: auto;
+    width: auto;
+}
+
+figcaption {
+    background-color: lightgray;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
 }
